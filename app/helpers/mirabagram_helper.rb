@@ -1,0 +1,2 @@
+module MirabagramHelper
+end
